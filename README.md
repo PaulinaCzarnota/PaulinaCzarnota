@@ -2,4 +2,4 @@
 
 - I’m interested in Web Design and Development.
 - I’m currently studying Computer Science.
-- Languages: HTML5, CSS, JavaScript, PHP, Python and C.
+- Languages: HTML5, CSS, JavaScript, PHP, Python, MYSQL, SQL and C.
