@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @PaulinaCzarnota
+# Hello there, I'm Paulina Czarnota 👋
 
-- I’m interested in Web Design, Web Development and Software Development.
-- I’m currently studying Computer Science.
-- Main technologies and programming languages I have experience with include: HTML5, CSS, JavaScript, PHP, Python, SQL, Java, and C.
+My passion lies in the fields of web design, web development, and software development. Currently, I am pursuing my degree in Computer Science, and I am constantly exploring new technologies and programming languages to grow my skillset.
 
-- To get in touch, reach me at paul.czar.14@gmail.com.
+## Experience and Skills
+
+I have hands-on experience with a wide range of programming languages and technologies including:
+
+- HTML5
+- CSS
+- JavaScript
+- PHP
+- Python
+- SQL
+- Java
+- C
+
+I enjoy using my knowledge to develop creative and user-friendly websites and software applications.
+
+## How to Reach Me
+
+I use GitHub to store my personal projects and college assignments. If you have any inquiries or would like to connect with me, please feel free to email me at paul.czar.14@gmail.com.
