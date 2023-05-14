@@ -1,6 +1,8 @@
 # Hello there, I'm Paulina Czarnota 👋
 
-My passion lies in the fields of web design, web development, and software development. Currently, I am pursuing my degree in Computer Science, and I am constantly exploring new technologies and programming languages to grow my skillset.
+My passion lies in the fields of web design, web development, and software development. 
+
+Currently, I am pursuing my degree in Computer Science, and I am constantly exploring new technologies and programming languages to grow my skillset.
 
 ## Experience and Skills
 
