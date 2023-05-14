@@ -17,8 +17,10 @@ I have hands-on experience with a wide range of programming languages and techno
 - Java
 - C
 
-I enjoy using my knowledge to develop creative and user-friendly websites and software applications.
+I enjoy using my knowledge to develop creative and user-friendly websites.
 
 ## How to Reach Me
 
-I use GitHub to store my personal projects and college assignments. If you have any inquiries or would like to connect with me, please feel free to email me at paul.czar.14@gmail.com.
+I use GitHub to store my college assignments and personal projects. 
+
+If you have any inquiries or would like to connect with me, please feel free to email me at paul.czar.14@gmail.com.
