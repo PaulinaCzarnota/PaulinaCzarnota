@@ -1,4 +1,4 @@
-# Hello there, I'm Paulina Czarnota 👋
+# Hello there, I'm Paulina 👋
 
 My passion lies in the fields of web design, web development, and software development. 
 
