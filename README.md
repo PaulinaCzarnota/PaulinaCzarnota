@@ -42,7 +42,6 @@ In addition to programming languages, I also speak multiple human languages:
 
 - **English** (Fluent)  
 - **Polish** (Native)  
-- **German** (Intermediate)
 
 ---
 
@@ -52,9 +51,9 @@ I’m currently diving deeper into:
 
 - **Kotlin** for mobile app development  
 - **PostgreSQL** for advanced database management  
+- **MongoDB** for NoSQL database management
 - **React** for modern front-end development  
-- **Node.js** for building scalable server-side applications  
-- **MongoDB** for NoSQL database management  
+- **Node.js** for building scalable server-side applications    
 
 ---
 
