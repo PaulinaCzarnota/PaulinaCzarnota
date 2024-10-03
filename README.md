@@ -4,7 +4,9 @@
 💻 **Aspiring Software Engineer**  
 🎓 **Computer Science Student**
 
-I’m passionate about **web design**, **web development**, and **software development**, constantly exploring new technologies to improve my skills. As a **Computer Science student**, I am committed to expanding my knowledge in the latest programming languages, tools, and frameworks to stay at the forefront of the tech industry.
+I’m passionate about **web design**, **web development**, and **software development**, constantly exploring new technologies to improve my skills. 
+
+As a Computer Science student, I am committed to expanding my knowledge in the latest programming languages, tools, and frameworks to stay at the forefront of the tech industry.
 
 ---
 
@@ -62,7 +64,7 @@ I’m currently diving deeper into:
 Check out my repositories for:
 
 - **College assignments**
-- **Personal projects** in web and mobile app development
+- **Personal projects** 
 
 I regularly update my GitHub with projects that reflect my learning journey and interests.
 
