@@ -23,7 +23,8 @@ I have hands-on experience with a variety of technologies, including:
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 - **Databases**:  
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
