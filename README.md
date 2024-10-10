@@ -4,9 +4,14 @@
 💻 **Aspiring Software Engineer**  
 🎓 **Computer Science Student**
 
-I’m passionate about **web design**, **web development**, and **software development**, constantly exploring new technologies to improve my skills.
+I’m passionate about **web design**, **web development**, and **software development**, constantly exploring new technologies to improve my skills. As a Computer Science student, I am committed to expanding my knowledge of the latest programming languages, tools, and frameworks to stay at the forefront of the tech industry.
 
-As a Computer Science student, I am committed to expanding my knowledge of the latest programming languages, tools, and frameworks to stay at the forefront of the tech industry.
+---
+
+## 📊 **Most Used Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical)
+
+> *This showcases the languages I use most often in my projects.*
 
 ---
 
@@ -75,3 +80,8 @@ I regularly update my GitHub with projects that reflect my learning journey and 
 
 I’m always open to new opportunities, collaborations, or just a chat about tech.  
 📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**
+
+---
+
+### 🎉 **Thank you for visiting my profile!**
+Feel free to explore my projects, and don’t hesitate to reach out if you’re interested in collaborating.
