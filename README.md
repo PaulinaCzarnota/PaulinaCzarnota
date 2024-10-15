@@ -1,6 +1,5 @@
 # Hello, I'm Paulina 👋
 
----
 
 ### 🎨 **Creative Web Designer & Developer**  
 ### 💻 **Aspiring Software Engineer**  
