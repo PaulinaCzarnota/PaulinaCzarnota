@@ -1,16 +1,20 @@
 # Hello, I'm Paulina 👋
 
 #### 🎨 *Creative Web Designer & Developer*  
-#### 💻 *Aspiring Software Engineer* 
+#### 💻 *Aspiring Software Engineer*  
 #### 🎓 *Computer Science Student*
 
 I'm passionate about web design, web development, and software development. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks.
 
+---
 
 ## 📊 **Most Used Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+---
 
 ## 💻 **Skills & Technologies**
 
@@ -37,6 +41,7 @@ I'm passionate about web design, web development, and software development. Eage
 
 I leverage these technologies to create intuitive websites and mobile applications that deliver exceptional user experiences.
 
+---
 
 ## 🌍 **Languages I Speak**
 
@@ -45,6 +50,7 @@ In addition to programming languages, I am fluent in:
 - **English** (Fluent)  
 - **Polish** (Native)
 
+---
 
 ## 🌱 **What I'm Learning**
 
@@ -56,6 +62,7 @@ Currently, I’m diving deeper into:
 - **React** for modern front-end development  
 - **Node.js** for building scalable server-side applications
 
+---
 
 ## 📂 **Projects & Contributions**
 
@@ -66,12 +73,14 @@ Explore my repositories to find:
 
 I frequently update my GitHub with projects reflecting my learning journey and interests.
 
+---
 
 ## 📫 **Get in Touch**
 
 I'm open to new opportunities, collaborations, or simply a chat about tech!  
 📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**
 
+---
 
 ### 🎉 **Thank You for Visiting My Profile!**
 
