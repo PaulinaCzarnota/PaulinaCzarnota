@@ -1,10 +1,12 @@
 # Hello, I'm Paulina 👋
 
-🎨 **Creative Web Designer & Developer**  
-💻 **Aspiring Software Engineer**  
-🎓 **Computer Science Student**
+---
 
-I’m passionate about **web design**, **web development**, and **software development**. Constantly exploring new technologies, I strive to enhance my skills and remain at the forefront of the tech industry. As a Computer Science student, I'm committed to mastering the latest programming languages, tools, and frameworks.
+### 🎨 **Creative Web Designer & Developer**  
+### 💻 **Aspiring Software Engineer**  
+### 🎓 **Computer Science Student**
+
+I'm passionate about **web design**, **web development**, and **software development**. Always eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I'm committed to mastering the latest programming languages, tools, and frameworks.
 
 ---
 
@@ -15,30 +17,28 @@ I’m passionate about **web design**, **web development**, and **software devel
 
 ## 💻 **Skills & Technologies**
 
-I have hands-on experience with a diverse range of technologies, including:
-
 ### Front-End Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### Back-End Development  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### Databases  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### Other Languages  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=black)
 
-I leverage these technologies to create **intuitive websites** and **mobile applications** that deliver exceptional user experiences.
+> I leverage these technologies to create **intuitive websites** and **mobile applications** that deliver exceptional user experiences.
 
 ---
 
@@ -83,3 +83,7 @@ I'm open to new opportunities, collaborations, or simply a chat about tech!
 
 ### 🎉 **Thank You for Visiting My Profile!**
 Feel free to browse my projects, and don’t hesitate to reach out if you’re interested in collaborating.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=PaulinaCzarnota&color=blue&style=flat)
