@@ -1,8 +1,8 @@
 # Hello, I'm Paulina 👋
 
-# 🎨 *Creative Web Designer & Developer*  
-# 💻 *Aspiring Software Engineer* 
-# 🎓 *Computer Science Student*
+#### 🎨 *Creative Web Designer & Developer*  
+#### 💻 *Aspiring Software Engineer* 
+#### 🎓 *Computer Science Student*
 
 I'm passionate about web design, web development, and software development. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks.
 
