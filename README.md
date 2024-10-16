@@ -8,7 +8,7 @@ I'm passionate about web design, web development, and software development. Eage
 
 ## 📊 **Most Used Languages**
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" /> </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" />
 
 ## 💻 **Skills & Technologies**
 
