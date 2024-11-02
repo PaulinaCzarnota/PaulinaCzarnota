@@ -1,7 +1,6 @@
 # Hello, I'm Paulina 👋
 
-### 💻 *Creative Web & App Developer*  
-                                                           ### 🎓 *Computer Science Student*
+#### 💻 *Creative Web & App Developer*                                                            #### 🎓 *Computer Science Student*
 
 
 I'm passionate about web design, app development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also have a keen interest in debugging and troubleshooting, particularly in IT operations, where I enjoy solving problems and optimizing systems for better performance.
