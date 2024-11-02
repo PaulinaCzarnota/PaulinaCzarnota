@@ -71,3 +71,4 @@ I'm open to new opportunities, collaborations, or simply a chat about tech!
 Feel free to browse my projects, and don’t hesitate to reach out if you’re interested in collaborating.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PaulinaCzarnota&color=blue&style=flat)
+
