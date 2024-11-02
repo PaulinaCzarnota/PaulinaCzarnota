@@ -1,10 +1,10 @@
 # Hello, I'm Paulina 👋
 
-#### 🎨 *Creative Web Designer & Developer*  
-#### 💻 *Aspiring Software Engineer*  
-#### 🎓 *Computer Science Student*
+### 💻 *Creative Web & App Developer*            ### 🎓 *Computer Science Student*
 
-I'm passionate about web design, development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also have a keen interest in debugging and troubleshooting, particularly in IT operations, as I enjoy solving problems and optimizing systems for better performance.
+
+I'm passionate about web design, app development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also have a keen interest in debugging and troubleshooting, particularly in IT operations, where I enjoy solving problems and optimizing systems for better performance.
+
 
 ## 📊 **GitHub Stats**
 
@@ -13,8 +13,8 @@ I'm passionate about web design, development, and software engineering. Eager to
   <img src="https://github-readme-stats.vercel.app/api?username=PaulinaCzarnota&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulinaCzarnota&theme=radical" alt="GitHub Streak Stats" height="150"/>
 </a>
-
 </div>
+
 
 ## 🌐 **Most Used Languages**
 
@@ -23,6 +23,7 @@ I'm passionate about web design, development, and software engineering. Eager to
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" height="150"/>
   </a>
 </div>
+
 
 ## 💻 **Skills & Technologies**
 
@@ -66,10 +67,12 @@ I'm passionate about web design, development, and software engineering. Eager to
   </tr>
 </table>
 
+
 ## 🌍 **Languages I Speak**
 
 - **English** (Fluent)  
 - **Polish** (Native)
+
 
 ## 🌱 **What I'm Learning**
 
@@ -81,6 +84,7 @@ Currently, I’m diving deeper into:
 - **React** for modern front-end development  
 - **Node.js** for building scalable server-side applications
 
+
 ## 📂 **Projects & Contributions**
 
 Explore my repositories to find:
@@ -90,10 +94,12 @@ Explore my repositories to find:
 
 I frequently update my GitHub with projects reflecting my learning journey and interests.
 
+
 ## 📫 **Get in Touch**
 
 I'm open to new opportunities, collaborations, or simply a chat about tech!  
 📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**
+
 
 ### 🎉 **Thank You for Visiting My Profile!**
 
