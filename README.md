@@ -6,10 +6,9 @@
 
 I'm passionate about web design, development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also have a keen interest in debugging and troubleshooting, particularly in IT operations, as I enjoy solving problems and optimizing systems for better performance.
 
-<div align="center">
-
 ## 📊 **GitHub Stats**
 
+<div align="center">
 <a href="https://github.com/PaulinaCzarnota">
   <img src="https://github-readme-stats.vercel.app/api?username=PaulinaCzarnota&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulinaCzarnota&theme=radical" alt="GitHub Streak Stats" height="150"/>
