@@ -5,7 +5,6 @@
 
 I'm passionate about web design, app development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also enjoy debugging and troubleshooting, especially in IT operations, where I take pride in solving problems and optimizing systems for better performance.
 
----
 
 ## 📊 GitHub Stats
 
@@ -20,7 +19,6 @@ I'm passionate about web design, app development, and software engineering. Eage
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </a>
 
----
 
 ## 💻 Skills & Technologies
 
@@ -32,14 +30,12 @@ I'm passionate about web design, app development, and software engineering. Eage
 | **Databases**             | <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/> |
 | **Other Languages**       | <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=oracle&logoColor=black" alt="Java"/>                                                                                                                     |
 
----
 
 ## 🌍 Languages I Speak
 
 - **English** (Fluent)  
 - **Polish** (Native)
 
----
 
 ## 🌱 What I'm Learning
 
@@ -51,7 +47,6 @@ I'm currently diving deeper into:
 - **React** for modern front-end development  
 - **Node.js** for building scalable server-side applications
 
----
 
 ## 📂 Projects & Contributions
 
@@ -62,7 +57,6 @@ Explore my repositories to find:
 
 I regularly update my GitHub with projects that reflect my learning journey and evolving interests.
 
----
 
 ## 📫 Get in Touch
 
@@ -70,7 +64,6 @@ I’m open to new opportunities, collaborations, or just a chat about tech!
 📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**  
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/paulina-czarnota-computer-science/)
 
----
 
 ### 🎉 Thank You for Visiting My Profile!
 
