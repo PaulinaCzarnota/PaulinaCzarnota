@@ -3,7 +3,7 @@
 #### 💻 *Aspiring Website and App Developer*  
 #### 🎓 *Computer Science Student*
 
-I'm passionate about web design, app development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also have a keen interest in debugging and troubleshooting, particularly in IT operations, where I enjoy solving problems and optimizing systems for better performance.
+I'm passionate about web design, app development, and software engineering. Eager to explore new technologies, I strive to enhance my skills and stay at the forefront of the tech industry. As a Computer Science student, I’m committed to mastering the latest programming languages, tools, and frameworks. I also enjoy debugging and troubleshooting, particularly in IT operations, where I take pride in solving problems and optimizing systems for better performance.
 
 ## 📊 **GitHub Stats**
 
@@ -14,7 +14,7 @@ I'm passionate about web design, app development, and software engineering. Eage
 </a>
 </div>
 
-## 🌐 **Most Used Languages**
+## 🌐 **Top Languages**
 
 <div align="center">
   <a href="https://github.com/PaulinaCzarnota">
@@ -83,14 +83,14 @@ Currently, I’m diving deeper into:
 
 Explore my repositories to find:
 
-- **College assignments**  
-- **Personal projects**
+- **College assignments**: Building a strong foundation in algorithms, data structures, and software development.
+- **Personal projects**: Experimenting with new tools and frameworks, and creating applications that solve real-world problems.
 
-I frequently update my GitHub with projects reflecting my learning journey and interests.
+I frequently update my GitHub with projects reflecting my learning journey and areas of interest.
 
 ## 📫 **Get in Touch**
 
-I'm open to new opportunities, collaborations, or simply a chat about tech!  
+I’m open to new opportunities, collaborations, or just chatting about tech!  
 📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**
 
 ### 🎉 **Thank You for Visiting My Profile!**
