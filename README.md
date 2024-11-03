@@ -60,9 +60,14 @@ I regularly update my GitHub with projects that reflect my learning journey and 
 
 ## 📫 Get in Touch
 
-I’m open to new opportunities, collaborations, or just a chat about tech!  
-📧 You can reach me at **[paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)**  
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/paulina-czarnota-computer-science/)
+I'm open to new opportunities, collaborations, or even a chat about tech! You can connect with me here:
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.czar.14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulina-czarnota-computer-science/)
+
+</div>
 
 
 ### 🎉 Thank You for Visiting My Profile!
