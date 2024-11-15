@@ -1,15 +1,9 @@
-Apologies for the oversight! Here's the corrected README with the **Profile Views Counter** properly included:  
-
----
-
 # Hello, I'm Paulina 👋  
 
 #### 💻 Aspiring Web and App Developer  
 #### 🎓 Computer Science Student  
 
 I'm passionate about web design, app development, and software engineering. I strive to explore new technologies and constantly enhance my skills to stay at the forefront of the tech industry. As a Computer Science student, I’m dedicated to mastering the latest programming languages, tools, and frameworks. I also enjoy debugging and troubleshooting, particularly in IT operations, where I excel at solving problems and optimizing systems for better performance.  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -18,15 +12,11 @@ I'm passionate about web design, app development, and software engineering. I st
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulinaCzarnota&theme=radical" alt="GitHub Streak Stats" height="150"/>  
 </a>  
 
----
-
 ## 🌐 Top Languages  
 
 <a href="https://github.com/PaulinaCzarnota">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical" alt="Top Languages" height="150"/>  
 </a>  
-
----
 
 ## 💻 Skills & Technologies  
 
@@ -43,14 +33,10 @@ I'm passionate about web design, app development, and software engineering. I st
 | **Scripting & Command Line**  | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat&logo=windowscommandprompt&logoColor=white) |  
 | **Additional Tools**          | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-3D85C6?style=flat&logo=prolog&logoColor=white) ![StarUML](https://img.shields.io/badge/StarUML-24A8E1?style=flat&logo=staruml&logoColor=white) ![IBM Rational Software Architect](https://img.shields.io/badge/IBM%20Rational%20Software%20Architect-6F8F8D?style=flat&logo=ibm&logoColor=white) ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=flat&logo=mongodb&logoColor=white) ![Keil](https://img.shields.io/badge/Keil-3B82B4?style=flat&logo=keil&logoColor=white) ![UML-based Specification Environment](https://img.shields.io/badge/UML%20Specification%20Environment-4B5C9A?style=flat&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) |  
 
----
-
 ## 🌍 Languages I Speak  
 
 - **English** (Fluent)  
 - **Polish** (Native)  
-
----
 
 ## 🌱 What I'm Learning  
 
@@ -62,8 +48,6 @@ I’m currently diving deeper into:
 - **React** for modern front-end development  
 - **Node.js** for building scalable server-side applications  
 
----
-
 ## 📂 Projects & Contributions  
 
 Explore my repositories to find:  
@@ -73,8 +57,6 @@ Explore my repositories to find:
 
 I regularly update my GitHub with projects that reflect my learning journey and evolving interests.  
 
----
-
 ## 📫 Get in Touch  
 
 I'm open to new opportunities, collaborations, or just a tech chat! Connect with me here:  
@@ -82,6 +64,6 @@ I'm open to new opportunities, collaborations, or just a tech chat! Connect with
 - 📧 **Email**: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 - 🔗 **LinkedIn**: [Paulina Czarnota on LinkedIn](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
 
----
+## 👁️‍🗨️ Profile Views  
 
-## 👁️‍🗨️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=PaulinaCzarnota&color=blueviolet&style=flat-square)  
