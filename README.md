@@ -64,6 +64,6 @@ I'm open to new opportunities, collaborations, or just a tech chat! Connect with
 - 📧 **Email**: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 - 🔗 **LinkedIn**: [Paulina Czarnota on LinkedIn](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
 
-## Profile Views  
+## 👁️‍🗨️ Profile Views  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PaulinaCzarnota&color=blueviolet&style=flat-square)  
