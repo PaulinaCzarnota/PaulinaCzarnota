@@ -9,7 +9,6 @@ I'm passionate about web design, app development, and software engineering. I st
 
 <a href="https://github.com/PaulinaCzarnota">  
   <img src="https://github-readme-stats.vercel.app/api?username=PaulinaCzarnota&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>  
-  <img src="https://streak-stats.demolab.com?user=PaulinaCzarnota&theme=radical" alt="GitHub Streak Stats" height="150"/>
 </a>
 
 </a>  
