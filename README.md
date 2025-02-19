@@ -58,7 +58,7 @@ I regularly update my GitHub with projects that reflect my learning journey and 
 
 ## 📫 Get in Touch  
 
-I'm open to new opportunities, collaborations, or just a tech chat! Connect with me here:  
+I'm open to new opportunities!           Connect with me here:  
 
 - 📧 **Email**: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 - 🔗 **LinkedIn**: [Paulina Czarnota on LinkedIn](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
