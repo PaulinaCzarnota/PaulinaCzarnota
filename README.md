@@ -101,7 +101,9 @@ I regularly update my GitHub with projects that showcase my growth and expertise
 
 ## 📫 Get in Touch  
 
-I'm open to new opportunities! Reach out to me:  
+I'm open to new opportunities! 
+
+Reach out to me:  
 
 📧 Email: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 🔗 LinkedIn: [Paulina Czarnota](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
