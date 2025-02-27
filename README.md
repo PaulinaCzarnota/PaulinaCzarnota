@@ -79,6 +79,8 @@ As a Computer Science student, I focus on mastering modern programming languages
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 </p>
 
+<p align="center"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Powershell-5391FE?style=flat&logo=powershell&logoColor=white"/> <img src="https://img.shields.io/badge/CMD-000000?style=flat&logo=windows-terminal&logoColor=white"/> </p>
+
 ## 🌍 Languages I Speak  
 
 - English (Fluent)  
