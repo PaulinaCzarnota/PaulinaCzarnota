@@ -1,6 +1,6 @@
 # **Hello, I'm Paulina!** 👋  
 
-### 💻 Aspiring Web & App Developer  
+### 💻 Aspiring Web & App Developer 
 
 ### 🎓 Computer Science Student  
 
@@ -56,7 +56,7 @@ As a Computer Science student, I focus on mastering modern programming languages
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🛠 Version Control & Development Tools  
+### 🛠 Development Tools & Version Control  
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
