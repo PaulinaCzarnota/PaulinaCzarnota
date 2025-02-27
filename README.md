@@ -24,7 +24,7 @@ As a Computer Science student, I focus on mastering modern programming languages
   </a>
 </p>
 
-## 💻 Skills & Technologies  
+## 🚀 Skills & Technologies  
 
 ### 🎨 Frontend Development  
 <p align="center">
@@ -102,8 +102,6 @@ As a Computer Science student, I focus on mastering modern programming languages
 I regularly update my GitHub with projects that showcase my growth and expertise in development!  
 
 ## 📫 Get in Touch  
-
-I'm open to new opportunities!  
 
 📧 **Email**: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 🔗 **LinkedIn**: [Paulina Czarnota](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
