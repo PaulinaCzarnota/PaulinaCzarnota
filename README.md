@@ -1,6 +1,8 @@
 # **Hello, I'm Paulina!** 👋  
 
-### 💻 Aspiring Web & App Developer         ### 🎓 Computer Science Student  
+### 💻 Aspiring Web & App Developer        
+
+### 🎓 Computer Science Student  
 
 I'm a passionate web developer, app developer, and software engineer, always eager to explore new technologies and enhance my skills. As a Computer Science student, I focus on mastering modern programming languages, frameworks, and tools. I enjoy problem-solving, debugging, and optimizing systems to improve performance and efficiency.  
 
