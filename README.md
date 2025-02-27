@@ -4,7 +4,9 @@
 
 ### 🎓 Computer Science Student  
 
-I'm passionate about web development, app development, software engineering, and testing. I am always eager to explore new technologies and refine my skills to stay ahead in the industry. As a Computer Science student, I focus on mastering modern programming languages, frameworks, and tools. I enjoy solving complex problems, debugging code, and optimizing systems to improve performance and efficiency.
+I'm passionate about web development, app development, software engineering, and testing. I am always eager to explore new technologies and refine my skills to stay ahead in the industry. 
+
+As a Computer Science student, I focus on mastering modern programming languages, frameworks, and tools. I enjoy solving complex problems, debugging code, and optimizing systems to improve performance and efficiency.
 
 ## 📊 **GitHub Stats**  
 
