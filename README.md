@@ -32,7 +32,7 @@ As a Computer Science student, I focus on mastering modern programming languages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black"/>
 </p>
 
 <p align="center">
@@ -68,6 +68,7 @@ As a Computer Science student, I focus on mastering modern programming languages
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FC7D5B?style=flat&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -101,9 +102,7 @@ I regularly update my GitHub with projects that showcase my growth and expertise
 
 ## 📫 Get in Touch  
 
-I'm open to new opportunities! 
-
-Reach out to me:  
+I'm open to new opportunities!  
 
 📧 Email: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 🔗 LinkedIn: [Paulina Czarnota](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
