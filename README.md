@@ -6,8 +6,6 @@
 
 I'm a passionate web developer, app developer, and software engineer, always eager to explore new technologies and enhance my skills. As a Computer Science student, I focus on mastering modern programming languages, frameworks, and tools. I enjoy problem-solving, debugging, and optimizing systems to improve performance and efficiency.  
 
----
-
 ## 📊 **GitHub Stats**  
 
 <p align="center">
@@ -16,8 +14,6 @@ I'm a passionate web developer, app developer, and software engineer, always eag
   </a>
 </p>
 
----
-
 ## 🌐 **Top Languages**  
 
 <p align="center">
@@ -25,8 +21,6 @@ I'm a passionate web developer, app developer, and software engineer, always eag
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinaCzarnota&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" alt="Top Languages" height="160"/>
   </a>
 </p>
-
----
 
 ## 💻 **Skills & Technologies**  
 
@@ -63,14 +57,10 @@ I'm a passionate web developer, app developer, and software engineer, always eag
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)  
 
----
-
 ## 🌍 **Languages I Speak**  
 
 - **English** (Fluent)  
 - **Polish** (Native)  
-
----
 
 ## 🌱 **Currently Learning**  
 
@@ -80,8 +70,6 @@ I'm a passionate web developer, app developer, and software engineer, always eag
 - **React.js** → Modern Frontend Development  
 - **Node.js** → Scalable Server-Side Applications  
 
----
-
 ## 📂 **Projects & Contributions**  
 
 🔍 **Explore my repositories** to find:  
@@ -90,16 +78,12 @@ I'm a passionate web developer, app developer, and software engineer, always eag
 
 I regularly update my GitHub with projects that showcase my growth and expertise in development!  
 
----
-
 ## 📫 **Get in Touch**  
 
 I'm open to new opportunities! Reach out to me:  
 
 📧 **Email**: [paul.czar.14@gmail.com](mailto:paul.czar.14@gmail.com)  
 🔗 **LinkedIn**: [Paulina Czarnota](https://www.linkedin.com/in/paulina-czarnota-computer-science/)  
-
----
 
 ## 👁️‍🗨️ **Profile Views**  
 
